@@ -3,9 +3,9 @@
 **Alumno:** Reynoso Arellano, Franco
 **Materia:** Programación IV — Tecnicatura Universitaria en Programación a Distancia (UTN)
 
-Repositorio: `<PEGAR ACÁ LA URL PÚBLICA DEL REPOSITORIO DE GITHUB>`
+Repositorio: https://github.com/FranVD/TPI-PROGRAMACION-4---FOOD-STORE
 
-Video de demostración (10–15 min): `<PEGAR ACÁ EL LINK PÚBLICO DEL VIDEO>`
+Video de demostración (10–15 min): 
 
 ---
 
